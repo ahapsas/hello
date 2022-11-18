@@ -1,6 +1,6 @@
-# version isn't needed as of 2020 for docker compose CLI. 
-# All 2.x and 3.x features supported
-# version: '2'
+# Docker compose file for installation Wordpress latest version, mariadb dabase and phpmyadmin
+# start the project with docker compose up -d
+# antonis hapsas 2022
 
 services:
 
